@@ -15,21 +15,25 @@ Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) di sistem Anda.
 ## Instalasi
 
 1. Clone repositori ini:
-   ```
-   git clone https://github.com/andrianggoro21/test-ats.git
-   ```
+
+```
+git clone https://github.com/andrianggoro21/test-ats.git
+```
 
 2. Pindah ke direktori project:
-  ```
-  cd sistem-pemesanan-barang
-  ```
+
+```
+cd sistem-pemesanan-barang
+```
 
 3. Instal dependensi:
-  ```
-  npm install
-  ```
+
+```
+npm install
+```
 
 4. Menjalankan aplikasi dalam mode pengembangan:
-  ```
-  npm run dev
-  ```
+
+```
+npm run dev
+```
