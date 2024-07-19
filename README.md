@@ -1,8 +1,39 @@
-# React + Vite
+# Sistem Pemesanan Barang
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistem Pemesanan Barang adalah aplikasi web yang memungkinkan pengguna mencari dan memesan barang dari berbagai pelabuhan berdasarkan negara. Aplikasi ini dibangun menggunakan React dan Vite.
 
-Currently, two official plugins are available:
+## Fitur
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Pencarian Barang**: Pengguna dapat mencari barang berdasarkan kata kunci.
+- **Pemesanan Barang**: Pengguna dapat memesan barang yang tersedia di pelabuhan tertentu.
+- **Filter Berdasarkan Negara**: Pengguna dapat memfilter barang berdasarkan negara pelabuhan.
+
+## Prasyarat
+
+Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) di sistem Anda.
+
+## Instalasi
+
+1. Clone repositori ini:
+
+```
+git clone https://github.com/andrianggoro21/test-ats.git
+```
+
+2. Pindah ke direktori project:
+
+```
+cd test-ats
+```
+
+3. Instal dependensi:
+
+```
+npm install
+```
+
+4. Menjalankan aplikasi dalam mode pengembangan:
+
+```
+npm run dev
+```
