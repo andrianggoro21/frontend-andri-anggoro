@@ -23,7 +23,7 @@ git clone https://github.com/andrianggoro21/test-ats.git
 2. Pindah ke direktori project:
 
 ```
-cd sistem-pemesanan-barang
+cd test-ats
 ```
 
 3. Instal dependensi:
