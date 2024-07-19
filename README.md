@@ -16,8 +16,9 @@ Pastikan Anda telah menginstal [Node.js](https://nodejs.org/) di sistem Anda.
 
 1. Clone repositori ini:
 
-   ```bash
+   ```
    git clone https://github.com/andrianggoro21/test-ats.git
+   ```
 
 2. Pindah ke direktori project:
   ```
